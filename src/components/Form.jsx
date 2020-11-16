@@ -82,6 +82,7 @@ const Form = () => {
                             id="poster"
                             value={poster}
                             onChange={onChange}
+                            placeholder="https://www.rooariimanuel.com/"
                         />
                     </div>
                     <div>
